@@ -1,9 +1,11 @@
 Write a C Program to display
 
-Good After Noon when time is between 13 to 20
+Good Morning when time is between 05:00 to 11:00
 
-Good Night when time is between 21 to 8
+Good After Noon when time is between 12:00 to 15:00
 
-Good Morning when time is between 9 to 12
+Good Evening when time is between 16:00 to 20:00
 
-when time is entered from user
+Good Night when time is between 20:00 to 05:00
+
+when time is entered from user without using <time.h> library
