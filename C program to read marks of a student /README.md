@@ -10,4 +10,4 @@ C program to read marks of a student in 4 subjects and display the grade of the 
 
 Below 45% -> Pass Class
 
-you can also add fail conditional statement if marks are less then 45, if require.
+you can also add fail conditional statement if marks are less then 20 or 30, if require.
