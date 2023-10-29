@@ -1,6 +1,6 @@
 Find the net salary of an employee with the following criteria.
 
-|--------------|--------------|--------------|--------------|-----|
+
 | Basic Salary |     HRA      |      DA      |      TA      | PT  |
 |--------------|--------------|--------------|--------------|-----|
 |   <=35000    | 8% of basic  | 42% of basic |     2500     | 200 |
