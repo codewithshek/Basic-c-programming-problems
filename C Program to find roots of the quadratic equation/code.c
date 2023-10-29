@@ -2,7 +2,7 @@
 #include <math.h>
 
 void main() {
-    float a, b, c, discriminant, realPart, unequal;
+    float a, b, c, discriminant, realPart, unequal, imaginaryPart;
 
     printf("Enter coefficients a, b and c: ");
     scanf("%f %f %f", &a, &b, &c);
@@ -19,7 +19,9 @@ void main() {
         printf("Roots are real and unequal: %f and %f\n", realPart, unequal);
     } 
     else {
-        printf("Roots are imaginary, error roots can't be displayed");
+        realPart = -b / (2 * a);
+        imaginaryPart = sqrt(-discriminant) / (2 * a);
+        printf("Roots are imaginary. The roots are %.2f+%.2fi and %.2f-%.2fi\n", realPart, imaginaryPart, realPart, imaginaryPart);
     }
 
 }
