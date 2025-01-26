@@ -47,7 +47,7 @@ github.com/codewithshek/basic-c-programming-problems/
 - [List of Programs](#list-of-programs)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -94,6 +94,3 @@ Here is a list of the available programs in this repository:
 
 Contributions are welcome! If you have a new problem or a better solution to an existing problem, feel free to fork the repository and submit a pull request.
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
