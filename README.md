@@ -3,8 +3,8 @@
 This repository contains a collection of basic C language programming problems along with their code solutions. These problems are designed to help beginners practice and improve their C programming skills.
 
 ## Directory Structure
-
 github.com/codewithshek/basic-c-programming-problems/
+
     ├── README.md
     ├── C Program Find the net salary of an employee with the following criteria/
     │   ├── README.md
